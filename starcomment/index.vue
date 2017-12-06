@@ -21,7 +21,7 @@
  * @param {Number} score - 分数， 四舍五入转化为星星数
  * @param {Boolean} isComment - 是否可以点击评价
  * 
- * 自定义事件 chagne  参数选中的星星对应的分数 
+ * 自定义事件 change  参数选中的星星对应的分数 
  *
  * @example
  * <sl-star :size="46" :score="4.5" :isComment="true"></sl-star>
