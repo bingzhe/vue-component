@@ -4,3 +4,4 @@
 
 * starcomment 星星评分组件
 * radio 移动端简单的单选组件
+* notification vue简单的提示组件
