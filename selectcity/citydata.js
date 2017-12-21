@@ -1,17 +1,17 @@
 export const citydata = [
-    {
-      name: "选择省份",
-      sub: [{ name: "请选择" }],
-      type: 1
-    },
+    // {
+    //   name: "选择省份",
+    //   sub: [{ name: "请选择" }],
+    //   type: 1
+    // },
     {
       name: "北京",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "北京",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "东城区" },
             { name: "西城区" },
             { name: "崇文区" },
@@ -42,11 +42,11 @@ export const citydata = [
     {
       name: "广东",
       sub: [
-        { name: "请选择", sub: [] },
+       //// { name: "请选择", sub: [] },
         {
           name: "广州",
           sub: [
-            { name: "请选择" },
+           ////// { name: "请选择" },
             { name: "越秀区" },
             { name: "荔湾区" },
             { name: "海珠区" },
@@ -68,7 +68,7 @@ export const citydata = [
         {
           name: "深圳",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             {
               name: "福田区"
             },
@@ -84,7 +84,7 @@ export const citydata = [
         {
           name: "珠海",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "香洲区" },
             { name: "斗门区" },
             { name: "金湾区" },
@@ -95,7 +95,7 @@ export const citydata = [
         {
           name: "汕头",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "金平区" },
             { name: "濠江区" },
             { name: "龙湖区" },
@@ -112,7 +112,7 @@ export const citydata = [
         {
           name: "韶关",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "浈江区" },
             {
               name: "武江区"
@@ -132,7 +132,7 @@ export const citydata = [
         {
           name: "佛山",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "禅城区" },
             { name: "南海区" },
             {
@@ -147,7 +147,7 @@ export const citydata = [
         {
           name: "江门",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             {
               name: "蓬江区"
             },
@@ -166,7 +166,7 @@ export const citydata = [
         {
           name: "湛江",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "赤坎区" },
             { name: "霞山区" },
             { name: "坡头区" },
@@ -185,7 +185,7 @@ export const citydata = [
         {
           name: "茂名",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "茂南区" },
             { name: "茂港区" },
             { name: "化州市" },
@@ -201,7 +201,7 @@ export const citydata = [
         {
           name: "肇庆",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "端州区" },
             { name: "鼎湖区" },
             { name: "高要市" },
@@ -219,7 +219,7 @@ export const citydata = [
         {
           name: "惠州",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "惠城区" },
             { name: "惠阳区" },
             { name: "博罗县" },
@@ -234,7 +234,7 @@ export const citydata = [
         {
           name: "梅州",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "梅江区" },
             { name: "兴宁市" },
             { name: "梅县" },
@@ -266,7 +266,7 @@ export const citydata = [
         {
           name: "河源",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "源城区" },
             { name: "紫金县" },
             { name: "龙川县" },
@@ -282,7 +282,7 @@ export const citydata = [
         {
           name: "阳江",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "江城区" },
             { name: "阳春市" },
             { name: "阳西县" },
@@ -296,7 +296,7 @@ export const citydata = [
         {
           name: "清远",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "清城区" },
             { name: "英德市" },
             {
@@ -316,7 +316,7 @@ export const citydata = [
         {
           name: "潮州",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             {
               name: "湘桥区"
             },
@@ -329,7 +329,7 @@ export const citydata = [
         {
           name: "揭阳",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "榕城区" },
             {
               name: "普宁市"
@@ -363,11 +363,11 @@ export const citydata = [
     {
       name: "上海",
       sub: [
-        { name: "请选择", sub: [] },
+       //// { name: "请选择", sub: [] },
         {
           name: "上海",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             {
               name: "黄浦区"
             },
@@ -401,11 +401,11 @@ export const citydata = [
     {
       name: "天津",
       sub: [
-        { name: "请选择", sub: [] },
+       //// { name: "请选择", sub: [] },
         {
           name: "天津",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "和平区" },
             { name: "河东区" },
             { name: "河西区" },
@@ -440,7 +440,7 @@ export const citydata = [
     {
       name: "重庆",
       sub: [
-        { name: "请选择", sub: [] },
+       //// { name: "请选择", sub: [] },
         {
           name: "重庆",
           sub: [
@@ -503,11 +503,11 @@ export const citydata = [
     {
       name: "辽宁",
       sub: [
-        { name: "请选择", sub: [] },
+       //// { name: "请选择", sub: [] },
         {
           name: "沈阳",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "沈河区" },
             {
               name: "皇姑区"
@@ -571,7 +571,7 @@ export const citydata = [
         {
           name: "抚顺",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "顺城区" },
             { name: "新抚区" },
             { name: "东洲区" },
@@ -588,7 +588,7 @@ export const citydata = [
         {
           name: "本溪",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "平山区" },
             { name: "明山区" },
             { name: "溪湖区" },
@@ -604,7 +604,7 @@ export const citydata = [
         {
           name: "丹东",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             { name: "振兴区" },
             { name: "元宝区" },
             { name: "振安区" },
@@ -620,7 +620,7 @@ export const citydata = [
         {
           name: "锦州",
           sub: [
-            { name: "请选择" },
+           //// { name: "请选择" },
             {
               name: "太和区"
             },
@@ -639,7 +639,7 @@ export const citydata = [
         {
           name: "营口",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "站前区" },
             { name: "西市区" },
             { name: "鲅鱼圈区" },
@@ -653,7 +653,7 @@ export const citydata = [
         {
           name: "阜新",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "海州区" },
             {
               name: "新邱区"
@@ -670,7 +670,7 @@ export const citydata = [
         {
           name: "辽阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "白塔区" },
             { name: "文圣区" },
             { name: "宏伟区" },
@@ -687,7 +687,7 @@ export const citydata = [
         {
           name: "盘锦",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "双台子区" },
             {
               name: "兴隆台区"
@@ -701,7 +701,7 @@ export const citydata = [
         {
           name: "铁岭",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "银州区"
             },
@@ -720,7 +720,7 @@ export const citydata = [
         {
           name: "朝阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "双塔区" },
             { name: "龙城区" },
             { name: "凌源市" },
@@ -737,7 +737,7 @@ export const citydata = [
         {
           name: "葫芦岛",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "龙港区" },
             { name: "南票区" },
             { name: "连山区" },
@@ -755,11 +755,11 @@ export const citydata = [
     {
       name: "江苏",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "南京",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "玄武区"
             },
@@ -784,7 +784,7 @@ export const citydata = [
         {
           name: "苏州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "金阊区" },
             { name: "平江区" },
             { name: "沧浪区" },
@@ -805,7 +805,7 @@ export const citydata = [
         {
           name: "无锡",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "崇安区" },
             { name: "南长区" },
             { name: "北塘区" },
@@ -821,7 +821,7 @@ export const citydata = [
         {
           name: "常州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "钟楼区"
             },
@@ -840,7 +840,7 @@ export const citydata = [
         {
           name: "镇江",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "京口区" },
             { name: "润州区" },
             { name: "丹徒区" },
@@ -856,7 +856,7 @@ export const citydata = [
         {
           name: "南通",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "崇川区" },
             {
               name: "港闸区"
@@ -876,7 +876,7 @@ export const citydata = [
         {
           name: "泰州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "海陵区" },
             { name: "高港区" },
             { name: "姜堰市" },
@@ -892,7 +892,7 @@ export const citydata = [
         {
           name: "扬州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "广陵区" },
             {
               name: "维扬区"
@@ -909,7 +909,7 @@ export const citydata = [
         {
           name: "盐城",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "亭湖区" },
             { name: "盐都区" },
             { name: "大丰市" },
@@ -945,7 +945,7 @@ export const citydata = [
         {
           name: "徐州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "云龙区" },
             { name: "鼓楼区" },
             { name: "九里区" },
@@ -968,7 +968,7 @@ export const citydata = [
         {
           name: "淮安",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "清河区" },
             { name: "清浦区" },
             {
@@ -986,7 +986,7 @@ export const citydata = [
         {
           name: "宿迁",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "宿城区" },
             { name: "宿豫区" },
             { name: "沭阳县" },
@@ -1005,7 +1005,7 @@ export const citydata = [
     {
       name: "湖北",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "武汉",
           sub: [
@@ -1034,7 +1034,7 @@ export const citydata = [
         {
           name: "黄石",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "黄石港区" },
             { name: "西塞山区" },
             { name: "下陆区" },
@@ -1050,7 +1050,7 @@ export const citydata = [
         {
           name: "十堰",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "张湾区" },
             {
               name: "茅箭区"
@@ -1068,7 +1068,7 @@ export const citydata = [
         {
           name: "荆州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "沙市区" },
             { name: "荆州区" },
             { name: "洪湖市" },
@@ -1111,7 +1111,7 @@ export const citydata = [
         {
           name: "襄樊",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "襄城区" },
             { name: "樊城区" },
             { name: "襄阳区" },
@@ -1128,7 +1128,7 @@ export const citydata = [
         {
           name: "鄂州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "鄂城区" },
             { name: "华容区" },
             { name: "梁子湖区" },
@@ -1139,7 +1139,7 @@ export const citydata = [
         {
           name: "荆门",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "东宝区" },
             { name: "掇刀区" },
             { name: "钟祥市" },
@@ -1154,7 +1154,7 @@ export const citydata = [
         {
           name: "孝感",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "孝南区" },
             { name: "应城市" },
             { name: "安陆市" },
@@ -1171,7 +1171,7 @@ export const citydata = [
         {
           name: "黄冈",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "黄州区"
             },
@@ -1193,7 +1193,7 @@ export const citydata = [
         {
           name: "咸宁",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "咸安区" },
             {
               name: "赤壁市"
@@ -1209,7 +1209,7 @@ export const citydata = [
         {
           name: "随州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "曾都区" },
             { name: "广水市" },
             { name: "其他" }
@@ -1258,7 +1258,7 @@ export const citydata = [
         {
           name: "成都",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "青羊区" },
             { name: "锦江区" },
             { name: "金牛区" },
@@ -1291,7 +1291,7 @@ export const citydata = [
         {
           name: "自贡",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "大安区" },
             { name: "自流井区" },
             { name: "贡井区" },
@@ -1307,7 +1307,7 @@ export const citydata = [
         {
           name: "攀枝花",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "仁和区"
             },
@@ -1322,7 +1322,7 @@ export const citydata = [
         {
           name: "泸州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "江阳区" },
             { name: "纳溪区" },
             { name: "龙马潭区" },
@@ -1339,7 +1339,7 @@ export const citydata = [
         {
           name: "德阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "旌阳区" },
             { name: "广汉市" },
             {
@@ -1374,7 +1374,7 @@ export const citydata = [
         {
           name: "广元",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "元坝区" },
             {
               name: "朝天区"
@@ -1391,7 +1391,7 @@ export const citydata = [
         {
           name: "遂宁",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "船山区" },
             { name: "安居区" },
             { name: "射洪县" },
@@ -1406,7 +1406,7 @@ export const citydata = [
         {
           name: "内江",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "市中区" },
             { name: "东兴区" },
             { name: "资中县" },
@@ -1421,7 +1421,7 @@ export const citydata = [
         {
           name: "乐山",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "市中区" },
             {
               name: "五通桥区"
@@ -1444,7 +1444,7 @@ export const citydata = [
         {
           name: "南充",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "顺庆区"
             },
@@ -1465,7 +1465,7 @@ export const citydata = [
         {
           name: "眉山",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "东坡区" },
             { name: "仁寿县" },
             {
@@ -1503,7 +1503,7 @@ export const citydata = [
         {
           name: "广安",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "广安区"
             },
@@ -1518,7 +1518,7 @@ export const citydata = [
         {
           name: "达州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "通川区" },
             { name: "万源市" },
             { name: "达县" },
@@ -1533,7 +1533,7 @@ export const citydata = [
         {
           name: "雅安",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "雨城区" },
             { name: "芦山县" },
             {
@@ -1551,7 +1551,7 @@ export const citydata = [
         {
           name: "巴中",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "巴州区" },
             { name: "南江县" },
             { name: "平昌县" },
@@ -1563,7 +1563,7 @@ export const citydata = [
         {
           name: "资阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "雁江区" },
             { name: "简阳市" },
             { name: "安岳县" },
@@ -1577,7 +1577,7 @@ export const citydata = [
         {
           name: "阿坝藏族羌族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "马尔康县" },
             { name: "九寨沟县" },
             { name: "红原县" },
@@ -1602,7 +1602,7 @@ export const citydata = [
         {
           name: "甘孜藏族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "康定县" },
             { name: "丹巴县" },
             { name: "炉霍县" },
@@ -1632,7 +1632,7 @@ export const citydata = [
         {
           name: "凉山彝族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "西昌市"
             },
@@ -1672,7 +1672,7 @@ export const citydata = [
         {
           name: "西安",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "莲湖区" },
             { name: "新城区" },
             { name: "碑林区" },
@@ -1695,7 +1695,7 @@ export const citydata = [
         {
           name: "铜川",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "耀州区" },
             {
               name: "王益区"
@@ -1709,7 +1709,7 @@ export const citydata = [
         {
           name: "宝鸡",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "渭滨区"
             },
@@ -1759,7 +1759,7 @@ export const citydata = [
         {
           name: "渭南",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "临渭区" },
             { name: "韩城市" },
             { name: "华阴市" },
@@ -1782,7 +1782,7 @@ export const citydata = [
         {
           name: "延安",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "宝塔区" },
             { name: "安塞县" },
             { name: "洛川县" },
@@ -1807,7 +1807,7 @@ export const citydata = [
         {
           name: "汉中",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "汉台区"
             },
@@ -1828,7 +1828,7 @@ export const citydata = [
         {
           name: "榆林",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "榆阳区"
             },
@@ -1895,11 +1895,11 @@ export const citydata = [
     {
       name: "河北",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "石家庄",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "长安区" },
             { name: "桥东区" },
             { name: "桥西区" },
@@ -1934,7 +1934,7 @@ export const citydata = [
         {
           name: "唐山",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "路北区"
             },
@@ -1958,7 +1958,7 @@ export const citydata = [
         {
           name: "秦皇岛",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "海港区" },
             { name: "山海关区" },
             { name: "北戴河区" },
@@ -1975,7 +1975,7 @@ export const citydata = [
         {
           name: "邯郸",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "邯山区"
             },
@@ -2037,7 +2037,7 @@ export const citydata = [
         {
           name: "保定",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "新市区" },
             { name: "北市区" },
             { name: "南市区" },
@@ -2107,7 +2107,7 @@ export const citydata = [
         {
           name: "承德",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "双桥区"
             },
@@ -2130,7 +2130,7 @@ export const citydata = [
         {
           name: "沧州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "新华区" },
             { name: "运河区" },
             { name: "泊头市" },
@@ -2158,7 +2158,7 @@ export const citydata = [
         {
           name: "廊坊",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "安次区"
             },
@@ -2180,7 +2180,7 @@ export const citydata = [
         {
           name: "衡水",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "桃城区" },
             { name: "冀州市" },
             { name: "深州市" },
@@ -2205,11 +2205,11 @@ export const citydata = [
     {
       name: "山西",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "太原",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "杏花岭区" },
             { name: "小店区" },
             { name: "迎泽区" },
@@ -2231,7 +2231,7 @@ export const citydata = [
         {
           name: "大同",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "城区" },
             { name: "矿区" },
             { name: "南郊区" },
@@ -2252,7 +2252,7 @@ export const citydata = [
         {
           name: "阳泉",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "城区" },
             { name: "矿区" },
             { name: "郊区" },
@@ -2267,7 +2267,7 @@ export const citydata = [
         {
           name: "长治",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "城区" },
             { name: "郊区" },
             {
@@ -2292,7 +2292,7 @@ export const citydata = [
         {
           name: "晋城",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "城区"
             },
@@ -2308,7 +2308,7 @@ export const citydata = [
         {
           name: "朔州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "朔城区" },
             { name: "平鲁区" },
             { name: "山阴县" },
@@ -2322,7 +2322,7 @@ export const citydata = [
         {
           name: "晋中",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "榆次区" },
             { name: "介休市" },
             {
@@ -2345,7 +2345,7 @@ export const citydata = [
         {
           name: "运城",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "盐湖区" },
             { name: "河津市" },
             {
@@ -2396,7 +2396,7 @@ export const citydata = [
         {
           name: "临汾",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "尧都区" },
             { name: "侯马市" },
             { name: "霍州市" },
@@ -2425,7 +2425,7 @@ export const citydata = [
         {
           name: "吕梁",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "离石区" },
             { name: "孝义市" },
             { name: "汾阳市" },
@@ -2454,11 +2454,11 @@ export const citydata = [
     {
       name: "河南",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "郑州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "中原区" },
             { name: "金水区" },
             { name: "二七区" },
@@ -2480,7 +2480,7 @@ export const citydata = [
         {
           name: "开封",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "鼓楼区" },
             { name: "龙亭区" },
             { name: "顺河回族区" },
@@ -2502,7 +2502,7 @@ export const citydata = [
         {
           name: "洛阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "西工区" },
             { name: "老城区" },
             { name: "涧西区" },
@@ -2549,7 +2549,7 @@ export const citydata = [
         {
           name: "安阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "北关区"
             },
@@ -2570,7 +2570,7 @@ export const citydata = [
         {
           name: "鹤壁",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "淇滨区" },
             { name: "山城区" },
             {
@@ -2585,7 +2585,7 @@ export const citydata = [
         {
           name: "新乡",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "卫滨区"
             },
@@ -2629,7 +2629,7 @@ export const citydata = [
         {
           name: "濮阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "华龙区"
             },
@@ -2645,7 +2645,7 @@ export const citydata = [
         {
           name: "许昌",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "魏都区" },
             { name: "禹州市" },
             { name: "长葛市" },
@@ -2659,7 +2659,7 @@ export const citydata = [
         {
           name: "漯河",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "源汇区" },
             { name: "郾城区" },
             {
@@ -2674,7 +2674,7 @@ export const citydata = [
         {
           name: "三门峡",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "湖滨区"
             },
@@ -2690,7 +2690,7 @@ export const citydata = [
         {
           name: "南阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "卧龙区" },
             { name: "宛城区" },
             { name: "邓州市" },
@@ -2715,7 +2715,7 @@ export const citydata = [
         {
           name: "商丘",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "梁园区" },
             { name: "睢阳区" },
             { name: "永城市" },
@@ -2734,7 +2734,7 @@ export const citydata = [
         {
           name: "信阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "浉河区" },
             { name: "平桥区" },
             { name: "潢川县" },
@@ -2754,7 +2754,7 @@ export const citydata = [
         {
           name: "周口",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "川汇区" },
             { name: "项城市" },
             { name: "商水县" },
@@ -2774,7 +2774,7 @@ export const citydata = [
         {
           name: "驻马店",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "驿城区" },
             { name: "确山县" },
             { name: "新蔡县" },
@@ -2816,7 +2816,7 @@ export const citydata = [
         {
           name: "长春",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "朝阳区" },
             { name: "宽城区" },
             { name: "二道区" },
@@ -2836,7 +2836,7 @@ export const citydata = [
         {
           name: "吉林",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "船营区" },
             { name: "昌邑区" },
             { name: "龙潭区" },
@@ -2873,7 +2873,7 @@ export const citydata = [
         {
           name: "辽源",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "龙山区" },
             { name: "西安区" },
             { name: "东辽县" },
@@ -2887,7 +2887,7 @@ export const citydata = [
         {
           name: "通化",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "东昌区" },
             { name: "二道江区" },
             { name: "梅河口市" },
@@ -2922,7 +2922,7 @@ export const citydata = [
         {
           name: "松原",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "宁江区" },
             { name: "乾安县" },
             { name: "长岭县" },
@@ -2937,7 +2937,7 @@ export const citydata = [
         {
           name: "白城",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "洮北区" },
             { name: "大安市" },
             { name: "洮南市" },
@@ -2950,7 +2950,7 @@ export const citydata = [
         {
           name: "延边朝鲜族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "延吉市" },
             { name: "图们市" },
             { name: "敦化市" },
@@ -2972,11 +2972,11 @@ export const citydata = [
     {
       name: "黑龙江",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "哈尔滨",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "松北区" },
             { name: "道里区" },
             { name: "南岗区" },
@@ -3006,7 +3006,7 @@ export const citydata = [
         {
           name: "齐齐哈尔",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "龙沙区" },
             { name: "昂昂溪区" },
             { name: "铁锋区" },
@@ -3052,7 +3052,7 @@ export const citydata = [
         {
           name: "双鸭山",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "尖山区" },
             { name: "岭东区" },
             {
@@ -3070,7 +3070,7 @@ export const citydata = [
         {
           name: "鸡西",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "鸡冠区" },
             { name: "恒山区" },
             { name: "城子河区" },
@@ -3110,7 +3110,7 @@ export const citydata = [
         {
           name: "伊春",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "伊春区" },
             { name: "带岭区" },
             { name: "南岔区" },
@@ -3135,7 +3135,7 @@ export const citydata = [
         {
           name: "牡丹江",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "爱民区"
             },
@@ -3157,7 +3157,7 @@ export const citydata = [
         {
           name: "佳木斯",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "向阳区" },
             {
               name: "前进区"
@@ -3179,7 +3179,7 @@ export const citydata = [
         {
           name: "七台河",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "桃山区" },
             {
               name: "新兴区"
@@ -3193,7 +3193,7 @@ export const citydata = [
         {
           name: "黑河",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "爱辉区" },
             {
               name: "北安市"
@@ -3209,7 +3209,7 @@ export const citydata = [
         {
           name: "绥化",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "北林区" },
             { name: "安达市" },
             { name: "肇东市" },
@@ -3229,7 +3229,7 @@ export const citydata = [
         {
           name: "大兴安岭地区",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "呼玛县" },
             { name: "塔河县" },
             { name: "漠河县" },
@@ -3245,11 +3245,11 @@ export const citydata = [
     {
       name: "内蒙古",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "呼和浩特",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "回民区"
             },
@@ -3270,7 +3270,7 @@ export const citydata = [
         {
           name: "包头",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "昆都仑区" },
             {
               name: "青山区"
@@ -3291,7 +3291,7 @@ export const citydata = [
         {
           name: "乌海",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "海勃湾区" },
             { name: "乌达区" },
             {
@@ -3304,7 +3304,7 @@ export const citydata = [
         {
           name: "赤峰",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "红山区" },
             { name: "元宝山区" },
             {
@@ -3328,7 +3328,7 @@ export const citydata = [
         {
           name: "通辽",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "科尔沁区" },
             { name: "霍林郭勒市" },
             { name: "开鲁县" },
@@ -3346,7 +3346,7 @@ export const citydata = [
         {
           name: "鄂尔多斯",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "东胜区" },
             { name: "准格尔旗" },
             { name: "乌审旗" },
@@ -3362,7 +3362,7 @@ export const citydata = [
         {
           name: "呼伦贝尔",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "海拉尔区" },
             { name: "满洲里市" },
             { name: "牙克石市" },
@@ -3387,7 +3387,7 @@ export const citydata = [
         {
           name: "巴彦淖尔",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "临河区" },
             { name: "五原县" },
             { name: "磴口县" },
@@ -3404,7 +3404,7 @@ export const citydata = [
         {
           name: "乌兰察布",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "集宁区" },
             { name: "丰镇市" },
             { name: "兴和县" },
@@ -3425,7 +3425,7 @@ export const citydata = [
         {
           name: "锡林郭勒盟",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "锡林浩特市" },
             { name: "二连浩特市" },
             {
@@ -3449,7 +3449,7 @@ export const citydata = [
         {
           name: "兴安盟",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "乌兰浩特市"
             },
@@ -3465,7 +3465,7 @@ export const citydata = [
         {
           name: "阿拉善盟",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "阿拉善左旗" },
             { name: "阿拉善右旗" },
             { name: "额济纳旗" },
@@ -3480,11 +3480,11 @@ export const citydata = [
     {
       name: "山东",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "济南",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "市中区"
             },
@@ -3506,7 +3506,7 @@ export const citydata = [
         {
           name: "青岛",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "市南区" },
             {
               name: "市北区"
@@ -3548,7 +3548,7 @@ export const citydata = [
         {
           name: "枣庄",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "市中区" },
             { name: "山亭区" },
             {
@@ -3579,7 +3579,7 @@ export const citydata = [
         {
           name: "烟台",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "芝罘区" },
             { name: "福山区" },
             { name: "牟平区" },
@@ -3603,7 +3603,7 @@ export const citydata = [
         {
           name: "潍坊",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "潍城区" },
             { name: "寒亭区" },
             { name: "坊子区" },
@@ -3627,7 +3627,7 @@ export const citydata = [
         {
           name: "济宁",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "市中区" },
             { name: "任城区" },
             {
@@ -3649,7 +3649,7 @@ export const citydata = [
         {
           name: "泰安",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "泰山区" },
             {
               name: "岱岳区"
@@ -3665,7 +3665,7 @@ export const citydata = [
         {
           name: "威海",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "环翠区" },
             { name: "乳山市" },
             { name: "文登市" },
@@ -3677,7 +3677,7 @@ export const citydata = [
         {
           name: "日照",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "东港区" },
             { name: "岚山区" },
             { name: "五莲县" },
@@ -3689,7 +3689,7 @@ export const citydata = [
         {
           name: "莱芜",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "莱城区" },
             { name: "钢城区" },
             { name: "其他" }
@@ -3699,7 +3699,7 @@ export const citydata = [
         {
           name: "临沂",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "兰山区" },
             { name: "罗庄区" },
             { name: "河东区" },
@@ -3721,7 +3721,7 @@ export const citydata = [
         {
           name: "德州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "德城区" },
             { name: "乐陵市" },
             { name: "禹城市" },
@@ -3742,7 +3742,7 @@ export const citydata = [
         {
           name: "聊城",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "东昌府区" },
             { name: "临清市" },
             { name: "高唐县" },
@@ -3760,7 +3760,7 @@ export const citydata = [
         {
           name: "滨州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "滨城区" },
             { name: "邹平县" },
             { name: "沾化县" },
@@ -3777,7 +3777,7 @@ export const citydata = [
         {
           name: "菏泽",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "牡丹区" },
             { name: "鄄城县" },
             { name: "单县" },
@@ -3800,11 +3800,11 @@ export const citydata = [
     {
       name: "安徽",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "合肥",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "庐阳区"
             },
@@ -3821,7 +3821,7 @@ export const citydata = [
         {
           name: "芜湖",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "镜湖区" },
             { name: "弋江区" },
             { name: "鸠江区" },
@@ -3838,7 +3838,7 @@ export const citydata = [
         {
           name: "蚌埠",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "蚌山区"
             },
@@ -3855,7 +3855,7 @@ export const citydata = [
         {
           name: "淮南",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "田家庵区" },
             { name: "大通区" },
             { name: "谢家集区" },
@@ -3871,7 +3871,7 @@ export const citydata = [
         {
           name: "马鞍山",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "雨山区" },
             {
               name: "花山区"
@@ -3885,7 +3885,7 @@ export const citydata = [
         {
           name: "淮北",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "相山区"
             },
@@ -3899,7 +3899,7 @@ export const citydata = [
         {
           name: "铜陵",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "铜官山区"
             },
@@ -3955,7 +3955,7 @@ export const citydata = [
         {
           name: "滁州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "琅琊区" },
             { name: "南谯区" },
             {
@@ -3973,7 +3973,7 @@ export const citydata = [
         {
           name: "阜阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "颍州区" },
             { name: "颍东区" },
             { name: "颍泉区" },
@@ -3991,7 +3991,7 @@ export const citydata = [
         {
           name: "宿州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "埇桥区"
             },
@@ -4021,7 +4021,7 @@ export const citydata = [
         {
           name: "六安",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "金安区" },
             { name: "裕安区" },
             { name: "寿县" },
@@ -4036,7 +4036,7 @@ export const citydata = [
         {
           name: "亳州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "谯城区" },
             {
               name: "利辛县"
@@ -4050,7 +4050,7 @@ export const citydata = [
         {
           name: "池州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "贵池区"
             },
@@ -4064,7 +4064,7 @@ export const citydata = [
         {
           name: "宣城",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "宣州区"
             },
@@ -4087,7 +4087,7 @@ export const citydata = [
     {
       name: "浙江",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "杭州",
           sub: [
@@ -4116,7 +4116,7 @@ export const citydata = [
         {
           name: "宁波",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "海曙区" },
             { name: "江东区" },
             { name: "江北区" },
@@ -4139,7 +4139,7 @@ export const citydata = [
         {
           name: "温州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "鹿城区" },
             { name: "龙湾区" },
             { name: "瓯海区" },
@@ -4162,7 +4162,7 @@ export const citydata = [
         {
           name: "嘉兴",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "秀城区" },
             { name: "秀洲区" },
             { name: "海宁市" },
@@ -4179,7 +4179,7 @@ export const citydata = [
         {
           name: "湖州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "吴兴区"
             },
@@ -4194,7 +4194,7 @@ export const citydata = [
         {
           name: "绍兴",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "越城区" },
             { name: "诸暨市" },
             { name: "上虞市" },
@@ -4210,7 +4210,7 @@ export const citydata = [
         {
           name: "金华",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "婺城区" },
             { name: "金东区" },
             { name: "兰溪市" },
@@ -4229,7 +4229,7 @@ export const citydata = [
         {
           name: "衢州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "柯城区" },
             { name: "衢江区" },
             { name: "江山市" },
@@ -4245,7 +4245,7 @@ export const citydata = [
         {
           name: "舟山",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "定海区" },
             { name: "普陀区" },
             {
@@ -4259,7 +4259,7 @@ export const citydata = [
         {
           name: "台州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "椒江区" },
             {
               name: "黄岩区"
@@ -4280,7 +4280,7 @@ export const citydata = [
         {
           name: "丽水",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "莲都区" },
             { name: "龙泉市" },
             { name: "缙云县" },
@@ -4303,11 +4303,11 @@ export const citydata = [
     {
       name: "福建",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "福州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "鼓楼区" },
             { name: "台江区" },
             { name: "仓山区" },
@@ -4330,7 +4330,7 @@ export const citydata = [
         {
           name: "厦门",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "思明区" },
             { name: "海沧区" },
             { name: "湖里区" },
@@ -4346,7 +4346,7 @@ export const citydata = [
         {
           name: "莆田",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "城厢区" },
             { name: "涵江区" },
             {
@@ -4361,7 +4361,7 @@ export const citydata = [
         {
           name: "三明",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "梅列区"
             },
@@ -4409,7 +4409,7 @@ export const citydata = [
         {
           name: "漳州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "芗城区" },
             { name: "龙文区" },
             { name: "龙海市" },
@@ -4430,7 +4430,7 @@ export const citydata = [
         {
           name: "南平",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "延平区" },
             { name: "建瓯市" },
             { name: "邵武市" },
@@ -4448,7 +4448,7 @@ export const citydata = [
         {
           name: "龙岩",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "新罗区" },
             { name: "漳平市" },
             { name: "长汀县" },
@@ -4465,7 +4465,7 @@ export const citydata = [
         {
           name: "宁德",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "蕉城区" },
             {
               name: "福安市"
@@ -4488,11 +4488,11 @@ export const citydata = [
     {
       name: "湖南",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "长沙",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "岳麓区" },
             { name: "芙蓉区" },
             { name: "天心区" },
@@ -4511,7 +4511,7 @@ export const citydata = [
         {
           name: "株洲",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "天元区"
             },
@@ -4532,7 +4532,7 @@ export const citydata = [
         {
           name: "湘潭",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "岳塘区" },
             { name: "雨湖区" },
             {
@@ -4547,7 +4547,7 @@ export const citydata = [
         {
           name: "衡阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "雁峰区"
             },
@@ -4593,7 +4593,7 @@ export const citydata = [
         {
           name: "岳阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "岳阳楼区" },
             { name: "云溪区" },
             { name: "君山区" },
@@ -4631,7 +4631,7 @@ export const citydata = [
         {
           name: "张家界",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "永定区" },
             {
               name: "武陵源区"
@@ -4645,7 +4645,7 @@ export const citydata = [
         {
           name: "益阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "赫山区"
             },
@@ -4661,7 +4661,7 @@ export const citydata = [
         {
           name: "郴州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "北湖区" },
             { name: "苏仙区" },
             { name: "资兴市" },
@@ -4680,7 +4680,7 @@ export const citydata = [
         {
           name: "永州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "冷水滩区" },
             { name: "零陵区" },
             { name: "祁阳县" },
@@ -4703,7 +4703,7 @@ export const citydata = [
         {
           name: "怀化",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "鹤城区" },
             { name: "洪江市" },
             { name: "会同县" },
@@ -4727,7 +4727,7 @@ export const citydata = [
         {
           name: "娄底",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "娄星区" },
             {
               name: "冷水江市"
@@ -4764,11 +4764,11 @@ export const citydata = [
     {
       name: "广西",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "南宁",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "青秀区" },
             { name: "兴宁区" },
             { name: "西乡塘区" },
@@ -4790,7 +4790,7 @@ export const citydata = [
         {
           name: "柳州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "城中区" },
             { name: "鱼峰区" },
             { name: "柳北区" },
@@ -4812,7 +4812,7 @@ export const citydata = [
         {
           name: "桂林",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "象山区" },
             { name: "秀峰区" },
             { name: "叠彩区" },
@@ -4841,7 +4841,7 @@ export const citydata = [
         {
           name: "梧州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "万秀区" },
             { name: "蝶山区" },
             { name: "长洲区" },
@@ -4858,7 +4858,7 @@ export const citydata = [
         {
           name: "北海",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "海城区"
             },
@@ -4900,7 +4900,7 @@ export const citydata = [
         {
           name: "贵港",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "港北区" },
             { name: "港南区" },
             { name: "覃塘区" },
@@ -4915,7 +4915,7 @@ export const citydata = [
         {
           name: "玉林",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "玉州区" },
             { name: "北流市" },
             { name: "容县" },
@@ -4931,7 +4931,7 @@ export const citydata = [
         {
           name: "百色",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "右江区" },
             {
               name: "凌云县"
@@ -4955,7 +4955,7 @@ export const citydata = [
         {
           name: "贺州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "八步区" },
             { name: "钟山县" },
             { name: "昭平县" },
@@ -4990,7 +4990,7 @@ export const citydata = [
         {
           name: "来宾",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "兴宾区" },
             { name: "合山市" },
             { name: "象州县" },
@@ -5006,7 +5006,7 @@ export const citydata = [
         {
           name: "崇左",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "江州区" },
             { name: "凭祥市" },
             { name: "宁明县" },
@@ -5027,11 +5027,11 @@ export const citydata = [
     {
       name: "江西",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "南昌",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "东湖区" },
             {
               name: "西湖区"
@@ -5052,7 +5052,7 @@ export const citydata = [
         {
           name: "景德镇",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "珠山区" },
             { name: "昌江区" },
             {
@@ -5066,7 +5066,7 @@ export const citydata = [
         {
           name: "萍乡",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "安源区" },
             {
               name: "湘东区"
@@ -5081,7 +5081,7 @@ export const citydata = [
         {
           name: "九江",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "浔阳区"
             },
@@ -5105,7 +5105,7 @@ export const citydata = [
         {
           name: "新余",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "渝水区" },
             { name: "分宜县" },
             { name: "其他" }
@@ -5115,7 +5115,7 @@ export const citydata = [
         {
           name: "鹰潭",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "月湖区"
             },
@@ -5128,7 +5128,7 @@ export const citydata = [
         {
           name: "赣州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "章贡区"
             },
@@ -5158,7 +5158,7 @@ export const citydata = [
         {
           name: "吉安",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "吉州区"
             },
@@ -5183,7 +5183,7 @@ export const citydata = [
         {
           name: "宜春",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "袁州区" },
             { name: "丰城市" },
             { name: "樟树市" },
@@ -5203,7 +5203,7 @@ export const citydata = [
         {
           name: "抚州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "临川区" },
             { name: "南丰县" },
             { name: "乐安县" },
@@ -5224,7 +5224,7 @@ export const citydata = [
         {
           name: "上饶",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "信州区" },
             { name: "德兴市" },
             { name: "上饶县" },
@@ -5250,11 +5250,11 @@ export const citydata = [
     {
       name: "贵州",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "贵阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "南明区" },
             { name: "云岩区" },
             { name: "花溪区" },
@@ -5274,7 +5274,7 @@ export const citydata = [
         {
           name: "六盘水",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "钟山区"
             },
@@ -5314,7 +5314,7 @@ export const citydata = [
         {
           name: "安顺",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "西秀区" },
             { name: "普定县" },
             { name: "平坝县" },
@@ -5350,7 +5350,7 @@ export const citydata = [
         {
           name: "毕节地区",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "毕节市" },
             { name: "黔西县" },
             { name: "大方县" },
@@ -5386,7 +5386,7 @@ export const citydata = [
         {
           name: "黔东南苗族侗族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "凯里市" },
             {
               name: "施秉县"
@@ -5414,7 +5414,7 @@ export const citydata = [
         {
           name: "黔南布依族苗族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "都匀市" },
             { name: "福泉市" },
             { name: "贵定县" },
@@ -5447,7 +5447,7 @@ export const citydata = [
         {
           name: "昆明",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "盘龙区" },
             { name: "五华区" },
             { name: "官渡区" },
@@ -5473,7 +5473,7 @@ export const citydata = [
         {
           name: "曲靖",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "麒麟区"
             },
@@ -5494,7 +5494,7 @@ export const citydata = [
         {
           name: "玉溪",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "红塔区" },
             { name: "江川县" },
             {
@@ -5515,7 +5515,7 @@ export const citydata = [
         {
           name: "保山",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "隆阳区" },
             { name: "施甸县" },
             { name: "腾冲县" },
@@ -5530,7 +5530,7 @@ export const citydata = [
         {
           name: "昭通",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "昭阳区" },
             {
               name: "鲁甸县"
@@ -5553,7 +5553,7 @@ export const citydata = [
         {
           name: "丽江",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "古城区" },
             {
               name: "永胜县"
@@ -5568,7 +5568,7 @@ export const citydata = [
         {
           name: "普洱",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "思茅区" },
             { name: "普洱哈尼族彝族自治县" },
             { name: "墨江哈尼族自治县" },
@@ -5588,7 +5588,7 @@ export const citydata = [
         {
           name: "临沧",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "临翔区" },
             { name: "凤庆县" },
             { name: "云县" },
@@ -5606,7 +5606,7 @@ export const citydata = [
         {
           name: "德宏傣族景颇族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "潞西市" },
             { name: "瑞丽市" },
             { name: "梁河县" },
@@ -5621,7 +5621,7 @@ export const citydata = [
         {
           name: "怒江傈僳族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "泸水县" },
             { name: "福贡县" },
             {
@@ -5635,7 +5635,7 @@ export const citydata = [
         {
           name: "迪庆藏族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "香格里拉县"
             },
@@ -5648,7 +5648,7 @@ export const citydata = [
         {
           name: "大理白族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "大理市"
             },
@@ -5670,7 +5670,7 @@ export const citydata = [
         {
           name: "楚雄彝族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "楚雄市" },
             { name: "双柏县" },
             { name: "牟定县" },
@@ -5690,7 +5690,7 @@ export const citydata = [
         {
           name: "红河哈尼族彝族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "蒙自县" },
             { name: "个旧市" },
             { name: "开远市" },
@@ -5715,7 +5715,7 @@ export const citydata = [
         {
           name: "文山壮族苗族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "文山县" },
             { name: "砚山县" },
             {
@@ -5733,7 +5733,7 @@ export const citydata = [
         {
           name: "西双版纳傣族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "景洪市" },
             { name: "勐海县" },
             { name: "勐腊县" },
@@ -5748,11 +5748,11 @@ export const citydata = [
     {
       name: "西藏",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "拉萨",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "城关区"
             },
@@ -5772,7 +5772,7 @@ export const citydata = [
         {
           name: "那曲地区",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "那曲县" },
             { name: "嘉黎县" },
             {
@@ -5792,7 +5792,7 @@ export const citydata = [
         {
           name: "昌都地区",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "昌都县" },
             { name: "江达县" },
             { name: "贡觉县" },
@@ -5815,7 +5815,7 @@ export const citydata = [
         {
           name: "林芝地区",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "林芝县" },
             { name: "工布江达县" },
             { name: "米林县" },
@@ -5854,7 +5854,7 @@ export const citydata = [
         {
           name: "日喀则地区",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "日喀则市" },
             { name: "南木林县" },
             { name: "江孜县" },
@@ -5884,7 +5884,7 @@ export const citydata = [
         {
           name: "阿里地区",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "噶尔县" },
             { name: "普兰县" },
             { name: "札达县" },
@@ -5912,7 +5912,7 @@ export const citydata = [
         {
           name: "海口",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "龙华区" },
             { name: "秀英区" },
             { name: "琼山区" },
@@ -5965,11 +5965,11 @@ export const citydata = [
     {
       name: "甘肃",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "兰州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "城关区" },
             { name: "七里河区" },
             { name: "西固区" },
@@ -5990,7 +5990,7 @@ export const citydata = [
         {
           name: "金昌",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "金川区"
             },
@@ -6002,7 +6002,7 @@ export const citydata = [
         {
           name: "白银",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "白银区" },
             {
               name: "平川区"
@@ -6017,7 +6017,7 @@ export const citydata = [
         {
           name: "天水",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "清水县"
             },
@@ -6034,7 +6034,7 @@ export const citydata = [
         {
           name: "武威",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "凉州区" },
             { name: "民勤县" },
             { name: "古浪县" },
@@ -6048,7 +6048,7 @@ export const citydata = [
         {
           name: "酒泉",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "肃州区" },
             { name: "玉门市" },
             {
@@ -6065,7 +6065,7 @@ export const citydata = [
         {
           name: "张掖",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "甘州区" },
             { name: "民乐县" },
             { name: "临泽县" },
@@ -6081,7 +6081,7 @@ export const citydata = [
         {
           name: "庆阳",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "西峰区" },
             { name: "庆城县" },
             { name: "环县" },
@@ -6099,7 +6099,7 @@ export const citydata = [
         {
           name: "平凉",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "崆峒区" },
             { name: "泾川县" },
             { name: "灵台县" },
@@ -6116,7 +6116,7 @@ export const citydata = [
         {
           name: "定西",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "安定区" },
             { name: "通渭县" },
             {
@@ -6133,7 +6133,7 @@ export const citydata = [
         {
           name: "陇南",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "武都区" },
             { name: "成县" },
             { name: "宕昌县" },
@@ -6152,7 +6152,7 @@ export const citydata = [
         {
           name: "临夏回族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "临夏市"
             },
@@ -6172,7 +6172,7 @@ export const citydata = [
         {
           name: "甘南藏族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "合作市" },
             { name: "临潭县" },
             {
@@ -6196,11 +6196,11 @@ export const citydata = [
     {
       name: "宁夏",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "银川",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "兴庆区" },
             {
               name: "西夏区"
@@ -6216,7 +6216,7 @@ export const citydata = [
         {
           name: "石嘴山",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "大武口区" },
             { name: "惠农区" },
             { name: "平罗县" },
@@ -6227,7 +6227,7 @@ export const citydata = [
         {
           name: "吴忠",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "利通区" },
             { name: "青铜峡市" },
             { name: "盐池县" },
@@ -6239,7 +6239,7 @@ export const citydata = [
         {
           name: "固原",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "原州区" },
             { name: "西吉县" },
             { name: "隆德县" },
@@ -6254,7 +6254,7 @@ export const citydata = [
         {
           name: "中卫",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "沙坡头区" },
             { name: "中宁县" },
             { name: "海原县" },
@@ -6271,7 +6271,7 @@ export const citydata = [
     {
       name: "青海",
       sub: [
-        { name: "请选择", sub: [] },
+       // { name: "请选择", sub: [] },
         {
           name: "西宁",
           sub: [
@@ -6294,7 +6294,7 @@ export const citydata = [
         {
           name: "海东地区",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "平安县" },
             { name: "乐都县" },
             {
@@ -6324,7 +6324,7 @@ export const citydata = [
         {
           name: "海南藏族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "共和县" },
             { name: "同德县" },
             { name: "贵德县" },
@@ -6339,7 +6339,7 @@ export const citydata = [
         {
           name: "黄南藏族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "同仁县" },
             { name: "尖扎县" },
             { name: "泽库县" },
@@ -6353,7 +6353,7 @@ export const citydata = [
         {
           name: "果洛藏族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "玛沁县" },
             {
               name: "班玛县"
@@ -6369,7 +6369,7 @@ export const citydata = [
         {
           name: "玉树藏族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "玉树县" },
             { name: "杂多县" },
             { name: "称多县" },
@@ -6383,7 +6383,7 @@ export const citydata = [
         {
           name: "海西蒙古族藏族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "德令哈市" },
             { name: "格尔木市" },
             {
@@ -6409,7 +6409,7 @@ export const citydata = [
         {
           name: "乌鲁木齐",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "天山区" },
             { name: "沙依巴克区" },
             { name: "新市区" },
@@ -6427,7 +6427,7 @@ export const citydata = [
         {
           name: "克拉玛依",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "克拉玛依区" },
             { name: "独山子区" },
             { name: "白碱滩区" },
@@ -6439,7 +6439,7 @@ export const citydata = [
         {
           name: "吐鲁番地区",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "吐鲁番市" },
             { name: "托克逊县" },
             { name: "鄯善县" },
@@ -6450,7 +6450,7 @@ export const citydata = [
         {
           name: "哈密地区",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "哈密市" },
             { name: "伊吾县" },
             { name: "巴里坤哈萨克自治县" },
@@ -6461,7 +6461,7 @@ export const citydata = [
         {
           name: "和田地区",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "和田市" },
             { name: "和田县" },
             { name: "洛浦县" },
@@ -6479,7 +6479,7 @@ export const citydata = [
         {
           name: "阿克苏地区",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "阿克苏市" },
             { name: "温宿县" },
             { name: "沙雅县" },
@@ -6496,7 +6496,7 @@ export const citydata = [
         {
           name: "喀什地区",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "喀什市" },
             {
               name: "巴楚县"
@@ -6520,7 +6520,7 @@ export const citydata = [
         {
           name: "克孜勒苏柯尔克孜自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "阿图什市" },
             { name: "阿合奇县" },
             { name: "乌恰县" },
@@ -6532,7 +6532,7 @@ export const citydata = [
         {
           name: "巴音郭楞蒙古自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "库尔勒市" },
             { name: "和静县" },
             { name: "尉犁县" },
@@ -6549,7 +6549,7 @@ export const citydata = [
         {
           name: "昌吉回族自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             { name: "昌吉市" },
             { name: "阜康市" },
             { name: "奇台县" },
@@ -6567,7 +6567,7 @@ export const citydata = [
         {
           name: "博尔塔拉蒙古自治州",
           sub: [
-            { name: "请选择" },
+           // { name: "请选择" },
             {
               name: "博乐市"
             },
@@ -6616,7 +6616,7 @@ export const citydata = [
     {
       name: "香港",
       sub: [
-        { name: "请选择" },
+       // { name: "请选择" },
         { name: "中西区" },
         { name: "湾仔区" },
         { name: "东区" },
@@ -6648,7 +6648,7 @@ export const citydata = [
     {
       name: "澳门",
       sub: [
-        { name: "请选择" },
+       // { name: "请选择" },
         { name: "花地玛堂区" },
         { name: "圣安多尼堂区" },
         {
@@ -6663,50 +6663,50 @@ export const citydata = [
       ],
       type: 0
     },
-    {
-      name: "台湾",
-      sub: [
-        { name: "请选择" },
-        { name: "台北市" },
-        { name: "高雄市" },
-        { name: "台北县" },
-        { name: "桃园县" },
-        {
-          name: "新竹县"
-        },
-        { name: "苗栗县" },
-        { name: "台中县" },
-        { name: "彰化县" },
-        { name: "南投县" },
-        { name: "云林县" },
-        { name: "嘉义县" },
-        { name: "台南县" },
-        { name: "高雄县" },
-        { name: "屏东县" },
-        { name: "宜兰县" },
-        { name: "花莲县" },
-        { name: "台东县" },
-        { name: "澎湖县" },
-        { name: "基隆市" },
-        {
-          name: "新竹市"
-        },
-        { name: "台中市" },
-        { name: "嘉义市" },
-        { name: "台南市" },
-        { name: "其他" }
-      ],
-      type: 0
-    },
-    {
-      name: "海外",
-      sub: [
-        {
-          name: "请选择"
-        },
-        { name: "其他" }
-      ],
-      type: 0
-    },
+    // {
+    //   name: "台湾",
+    //   sub: [
+    //    // { name: "请选择" },
+    //     { name: "台北市" },
+    //     { name: "高雄市" },
+    //     { name: "台北县" },
+    //     { name: "桃园县" },
+    //     {
+    //       name: "新竹县"
+    //     },
+    //     { name: "苗栗县" },
+    //     { name: "台中县" },
+    //     { name: "彰化县" },
+    //     { name: "南投县" },
+    //     { name: "云林县" },
+    //     { name: "嘉义县" },
+    //     { name: "台南县" },
+    //     { name: "高雄县" },
+    //     { name: "屏东县" },
+    //     { name: "宜兰县" },
+    //     { name: "花莲县" },
+    //     { name: "台东县" },
+    //     { name: "澎湖县" },
+    //     { name: "基隆市" },
+    //     {
+    //       name: "新竹市"
+    //     },
+    //     { name: "台中市" },
+    //     { name: "嘉义市" },
+    //     { name: "台南市" },
+    //     { name: "其他" }
+    //   ],
+    //   type: 0
+    // },
+    // {
+    //   name: "海外",
+    //   sub: [
+    //     {
+    //       name: "请选择"
+    //     },
+    //     { name: "其他" }
+    //   ],
+    //   type: 0
+    // },
     { name: "其他" }
   ];
