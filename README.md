@@ -7,3 +7,4 @@
 * notification vue简单的提示组件
 * checklist 简单的多选按钮组件
 * tree 树结构菜单
+* selectcity 基于element ui 1.4.10城市选择
